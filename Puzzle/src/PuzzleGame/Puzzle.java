@@ -4,7 +4,7 @@ public class Puzzle {
 
 	private Puzzle() {
 
-		Field field = new Field(2, 2);
+		Field field = new Field(4, 2);
 		ConsoleUI play = new ConsoleUI(field);
 		play.newGameStarted(field);
 	}
