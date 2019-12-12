@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MineSweeper/src"/>
+	<classpathentry kind="src" path="Puzzle/src"/>
+	<classpathentry kind="src" path="Register/src"/>
+	<classpathentry kind="src" path="Register/test"/>
+	<classpathentry kind="lib" path="Register/lib/postgresql-42.2.8.jar"/>
+	<classpathentry kind="output" path="Guessnumber/bin"/>
+</classpath>
