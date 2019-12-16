@@ -11,7 +11,6 @@ public class Puzzle {
 
 	void newGameStarted(Field field) {
 	}
-//test for git
 	public static void main(String[] args) {
 		new Puzzle();
 	}
